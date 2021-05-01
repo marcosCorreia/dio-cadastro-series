@@ -1,0 +1,16 @@
+/home/souzaa/Documentos/crude/ProjectDio.Series/obj/Debug/net5.0/ProjectDio.Series.csprojAssemblyReference.cache
+/home/souzaa/Documentos/crude/ProjectDio.Series/obj/Debug/net5.0/ProjectDio.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/souzaa/Documentos/crude/ProjectDio.Series/obj/Debug/net5.0/ProjectDio.Series.AssemblyInfoInputs.cache
+/home/souzaa/Documentos/crude/ProjectDio.Series/obj/Debug/net5.0/ProjectDio.Series.AssemblyInfo.cs
+/home/souzaa/Documentos/crude/ProjectDio.Series/obj/Debug/net5.0/ProjectDio.Series.csproj.CoreCompileInputs.cache
+/home/souzaa/Documentos/crude/ProjectDio.Series/bin/Debug/net5.0/ProjectDio.Series
+/home/souzaa/Documentos/crude/ProjectDio.Series/bin/Debug/net5.0/ProjectDio.Series.deps.json
+/home/souzaa/Documentos/crude/ProjectDio.Series/bin/Debug/net5.0/ProjectDio.Series.runtimeconfig.json
+/home/souzaa/Documentos/crude/ProjectDio.Series/bin/Debug/net5.0/ProjectDio.Series.runtimeconfig.dev.json
+/home/souzaa/Documentos/crude/ProjectDio.Series/bin/Debug/net5.0/ProjectDio.Series.dll
+/home/souzaa/Documentos/crude/ProjectDio.Series/bin/Debug/net5.0/ref/ProjectDio.Series.dll
+/home/souzaa/Documentos/crude/ProjectDio.Series/bin/Debug/net5.0/ProjectDio.Series.pdb
+/home/souzaa/Documentos/crude/ProjectDio.Series/obj/Debug/net5.0/ProjectDio.Series.dll
+/home/souzaa/Documentos/crude/ProjectDio.Series/obj/Debug/net5.0/ref/ProjectDio.Series.dll
+/home/souzaa/Documentos/crude/ProjectDio.Series/obj/Debug/net5.0/ProjectDio.Series.pdb
+/home/souzaa/Documentos/crude/ProjectDio.Series/obj/Debug/net5.0/ProjectDio.Series.genruntimeconfig.cache
